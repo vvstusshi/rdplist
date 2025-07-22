@@ -1,16 +1,9 @@
 [
-  {
-    "name": "RDP #1",
-    "city": "Москва",
-    "country_code": "ru",
-    "host": "46.23.96.32",
-    "port": 56014
-  },
-  {
-    "name": "RDP #2",
-    "city": "Москва",
-    "host": "82.146.40.207",
-    "country_code": "ru",
-    "port": 53
-  }
+    {"name": "RDP #1", "country_code": "ru", "city": "Москва", "id": "a02a6...", "host": "46.23.96.32", "port": 56014},
+    {"name": "RDP #2", "country_code": "ru", "city": "Москва", "id": "8e9db6...", "host": "82.146.40.207", "port": 53},
+    {"name": "RDP #3", "country_code": "ru", "city": "Москва", "id": "550858...", "host": "46.23.98.174", "port": 52340},
+    {"name": "RDP #4", "country_code": "ru", "city": "Москва", "id": "71015...", "host": "185.222.161.42", "port": 56977},
+    {"name": "RDP #5", "country_code": "ru", "city": "Москва", "id": "71014...", "host": "45.141.184.47", "port": 52248},
+    {"name": "RDP #6", "country_code": "ru", "city": "Москва", "id": "71013...", "host": "5.178.3.186", "port": 51795},
+    {"name": "RDP #7", "country_code": "kz", "city": "Алматы", "id": "710167...", "host": "92.60.75.13", "port": 58854},
 ]
