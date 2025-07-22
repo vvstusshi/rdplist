@@ -5,5 +5,5 @@
     {"name": "RDP #4", "country_code": "ru", "city": "Москва", "id": "71015...", "host": "185.222.161.42", "port": 56977},
     {"name": "RDP #5", "country_code": "ru", "city": "Москва", "id": "71014...", "host": "45.141.184.47", "port": 52248},
     {"name": "RDP #6", "country_code": "ru", "city": "Москва", "id": "71013...", "host": "5.178.3.186", "port": 51795},
-    {"name": "RDP #7", "country_code": "kz", "city": "Алматы", "id": "710167...", "host": "92.60.75.13", "port": 58854},
+    {"name": "RDP #7", "country_code": "kz", "city": "Алматы", "id": "710167...", "host": "92.60.75.13", "port": 58854}
 ]
