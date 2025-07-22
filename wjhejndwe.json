@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RDP #1",
+    "city": "Москва",
+    "country_code": "ru",
+    "host": "46.23.96.32",
+    "port": 56014
+  },
+  {
+    "name": "RDP #2",
+    "city": "Москва",
+    "host": "82.146.40.207",
+    "country_code": "ru",
+    "port": 53
+  }
+]
